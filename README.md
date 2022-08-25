@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=al-lla&color=lightgrey)
 
 <!--- Introdução --->
-<h1 align="center">Olá 👋, Eu sou o Alexandre Alves</h1>
+<h1 align="center">Olá 👋, eu sou o Alexandre Alves</h1>
 <h3 align="center">Apaixonado por dados e aprendizado</h3>
 
 <br>
