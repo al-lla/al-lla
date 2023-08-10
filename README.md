@@ -9,7 +9,7 @@
 <br>
 
 
-🦥 Atualmente trabalho como **analista de dados** no [**Zé Delivery**](www.linkedin.com/company/zedelivery/) 🍺
+🦥 Atualmente trabalho como **analista de dados** no [**iFood**](https://www.linkedin.com/company/ifood-/) 🍕
 
 🦆 Aprendendo **python**, **cloud** e **spark**
 
